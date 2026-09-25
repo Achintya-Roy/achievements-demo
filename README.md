@@ -6,3 +6,7 @@ A small public sandbox repo.
 
 Used for experimenting with GitHub workflows: branches, pull requests,
 and issue triage.
+
+## License
+
+MIT.
